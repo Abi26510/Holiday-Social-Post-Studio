@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Social Post Studio",
+  "description": "A standalone holiday social media post drafter, creative visual maker, and processed content tracking sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
